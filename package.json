@@ -1,0 +1,13 @@
+{
+  "name": "css-grid-demo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Chris Li",
+  "license": "MIT",
+  "dependencies": {
+    "http-server": "^0.10.0"
+  },
+  "scripts": {
+    "start": "http-server public"
+  }
+}
